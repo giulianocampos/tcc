@@ -1,0 +1,6 @@
+Iniciar Monografia
+
+Coletar mais dados sobre quedas
+
+Adicionar tela no sistema que explica as características de cada situação referente a árvore. Bom/Atenção/Critica
+
